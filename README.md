@@ -1,2 +1,2 @@
-# ufo-timeline
-Timeline of UFO/ET experiences. Last 100 years, approx.
+# Vertical-timeline
+Display with scroll a vertical timeline for UFOI and visitation.
