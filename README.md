@@ -1,2 +1,2 @@
 # Vertical-timeline
-Display with scroll a vertical timeline for UFOI and visitation.
+Display with scroll a 100-year vertical timeline of ETs and UFOs.
