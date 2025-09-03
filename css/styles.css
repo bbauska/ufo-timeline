@@ -31,7 +31,7 @@ body {
 .intro {
   color: var(--white);
   background: var(--green);  /* red */
-  padding: 50px 0;  /* 100px 0; */
+  padding: 100px 0;  /* 100px 0; */
 }
 
 .container {
@@ -39,10 +39,6 @@ body {
   max-width: 1200px;
   margin: 0 auto;
   text-align: center;
-}
-
-#h1Title {
-  font-size: 3.5rem;
 }
 
 h1 {
@@ -121,6 +117,7 @@ h1 {
   line-height: 1;
   margin: 15px 0;
 }
+
 /* ANIMATION STYLES
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .timeline ol li.in-view .time-wrapper::before {
